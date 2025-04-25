@@ -1,0 +1,45 @@
+Creating a detailed rubric for the assignment involves establishing clear criteria and assigning scores based on how well each criterion is met. Here is a rubric out of 5 points for each category:
+
+### Rubric for Evaluating Student Submissions
+
+#### 1. Completeness of Submission (5 Points)
+
+- **5 Points:** All sections are fully completed with detailed information on each of the 10 buildings, each accompanied by both exterior and interior images. The biography is exactly or exceeds 750 words and all required elements are present.
+- **4 Points:** Most sections are completed with minor omissions or less detailed information on a couple of buildings. Biography is 650-750 words.
+- **3 Points:** Noticeable omissions in required sections or superficial information on several buildings. Biography is only 550-649 words.
+- **2 Points:** Significant portions of the assignment are missing or major sections are under-developed. Biography is only 400-549 words.
+- **1 Point:** Few sections completed; major parts missing. Biography is less than 400 words.
+
+#### 2. Image Quality and Use (5 Points)
+
+- **5 Points:** All images are high-resolution, clear, and effectively show the architectural details from multiple angles with no visual distractions.
+- **4 Points:** Most images are high quality with clear architectural emphasis, though a few may lack clarity or perspectives.
+- **3 Points:** A mix of high and low-resolution images; some images are unclear or not informative about architectural features.
+- **2 Points:** Majority of images are low-resolution and fail to clearly depict the architectural aspects; many images lack variety in perspectives.
+- **1 Point:** Images are predominantly low-resolution or missing essential architectural views.
+
+#### 3. Depth and Insight of Biography (5 Points)
+
+- **5 Points:** Biography is comprehensive, insightful, and clearly articulates the architect's significance and influence, supported by strong evidence and examples.
+- **4 Points:** Biography is thorough but may lack some deep analysis or evidence, still demonstrates a good understanding of the architect’s influence.
+- **3 Points:** Biography is descriptive but lacks depth or detailed exploration of the architect’s significance.
+- **2 Points:** Biography is surface-level, missing substantial insight or detail; little evidence of research or understanding.
+- **1 Point:** Biography is incomplete or fails to provide meaningful insight or evidence about the architect’s contributions.
+
+#### 4. Citation and Attribution Quality (5 Points)
+
+- **5 Points:** All images and text are impeccably cited in APA format with no errors. Sources are credible and well-integrated.
+- **4 Points:** Most citations are correct with minor errors; sources are generally credible. 
+- **3 Points:** Several errors in citation format or missing citations; mixed source credibility.
+- **2 Points:** Many missing citations; sources are poorly chosen or not credible.
+- **1 Point:** Few citations exist; significant errors prevalent, lacking credibility.
+
+#### 5. Overall Presentation (5 Points)
+
+- **5 Points:** Document and slides are professionally formatted, cohesive, and polished with excellent organization. All assignment guidelines are adhered to.
+- **4 Points:** Good presentation, mostly well-organized and professional-looking with minor layout issues.
+- **3 Points:** Average presentation with noticeable layout issues; some adherence to guidelines missing.
+- **2 Points:** Poor organization and layout; many deviations from assignment guidelines.
+- **1 Point:** Presentation lacks professionalism, coherence, and does not follow guidelines.
+
+This rubric provides both a quantitative and qualitative evaluation of student submissions, ensuring a comprehensive and fair assessment based on the criteria set in the assignment overview.
